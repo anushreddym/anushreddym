@@ -2,11 +2,7 @@
 
 Welcome to my github. Here, you can find stuff that I have made. Check out my portfolio: https://anushreddym.github.io/portfolio/
 
-🚧 I’m currently working on TOP SECRET
-
----
-> "In the midst of chaos, there is also opportunity."
-- Sun Tzu, The Art of War
+🚧 Latest Project: COMING SOON
 
 <!--
 **anushreddym/anushreddym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
