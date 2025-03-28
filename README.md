@@ -4,6 +4,10 @@ Welcome to my github. Here, you can find stuff that I have made. Check out my po
 
 🚧 I’m currently working on TOP SECRET
 
+---
+> "In the midst of chaos, there is also opportunity."
+- Sun Tzu, The Art of War
+
 <!--
 **anushreddym/anushreddym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
