@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👋 Hey, I´m Anush!
+
+Welcome to my github. Here, you can find stuff that I have made. Check out my portfolio: https://anushreddym.github.io/portfolio/
+
+🚧 I’m currently working on TOP SECRET
 
 <!--
 **anushreddym/anushreddym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
